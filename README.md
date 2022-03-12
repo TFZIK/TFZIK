@@ -1,4 +1,4 @@
-## Hello, i'm [TFZ]
+## Hello, i'm TFZ
 
 ### I'm coding Python and html, c#
 
